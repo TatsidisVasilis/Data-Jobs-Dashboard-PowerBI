@@ -31,6 +31,12 @@ Interactive Dashboard:
 
 ![Dashboard Preview](data_jobs_dashboard.png)
 
+## Learning Note
+
+This dashboard was built by following a step-by-step Power BI tutorial as part of my learning journey and portfolio development.
+
+The project helped me practice dashboard design, data modelling, DAX, Power Query and data visualisation concepts in Power BI
+
 ## What I Learned
 
 During this project I practiced data transformation, dashboard design, building visualisations and creating interactive reports using Power BI.
