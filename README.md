@@ -25,7 +25,7 @@ The goal of the project was to practice Power BI using a real-world dataset and 
 
 Interactive Dashboard:
 
-[[Power BI Dashboard Link](ΒΑΛΕ_ΕΔΩ_ΤΟ_LINK)](https://app.powerbi.com/view?r=eyJrIjoiZjE0YzBiOTItMzNmNS00MTA4LWI4MjYtMmFhYmM3NTFiOTg5IiwidCI6IjZhMTI1NGYzLWUxNmMtNGU0NS1iOTJjLTgxYTFlNWE5MmIzNCIsImMiOjl9)
+[Power BI Dashboard Link](ΒΑΛΕ_ΕΔΩ_ΤΟ_LINK)](https://app.powerbi.com/view?r=eyJrIjoiZjE0YzBiOTItMzNmNS00MTA4LWI4MjYtMmFhYmM3NTFiOTg5IiwidCI6IjZhMTI1NGYzLWUxNmMtNGU0NS1iOTJjLTgxYTFlNWE5MmIzNCIsImMiOjl9)
 
 ## Dashboard Preview
 
